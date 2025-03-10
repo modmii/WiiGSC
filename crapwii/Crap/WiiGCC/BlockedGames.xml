@@ -57,7 +57,28 @@
   </Game>
   <Game>
     <titleId>S3DJ</titleId>
-    <discId> S3DJ18</discId>
+    <discId>S3DJ18</discId>
     <name>Deca Sporta 3</name>
   </Game>
+    <Game>
+    <titleId>SSQP</titleId>
+    <discId>SSQP01</discId>
+    <name>Mario Party 9</name>
+  </Game>
+      <Game>
+    <titleId>SSQE</titleId>
+    <discId>SSQE01</discId>
+    <name>Mario Party 9</name>
+  </Game>
+    <Game>
+    <titleId>SSQX</titleId>
+    <discId>SSQX01</discId>
+    <name>Mario Party 9</name>
+  </Game>
+    <Game>
+    <titleId>SSQJ</titleId>
+    <discId>SSQJ01</discId>
+    <name>Mario Party 9</name>
+  </Game>
+
 </BlockedGames>
