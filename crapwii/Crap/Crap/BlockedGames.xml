@@ -15,4 +15,70 @@
     <discId>SBLJ5G</discId>
     <name>A boy and his blob</name>
   </Game>
+  <Game>
+    <titleId>FFEP</titleId>
+    <discId>FFEP5G</discId>
+    <name>A boy and his blob</name>
+  </Game>
+  <Game>
+    <titleId>R3EE</titleId>
+    <discId>R3EEWR</discId>
+    <name>Game Party 3</name>
+  </Game>
+  <Game>
+    <titleId>R3EP</titleId>
+    <discId>R3EPWR</discId>
+    <name>Game Party 3</name>
+  </Game>
+  <Game>
+    <titleId>R3EJ</titleId>
+    <discId>R3EJWR</discId>
+    <name>Game Party 3</name>
+  </Game>
+  <Game>
+    <titleId>RWZE</titleId>
+    <discId>RWZE5G</discId>
+    <name>Wonder World Amusement Park</name>
+  </Game>
+  <Game>
+    <titleId>RWZP</titleId>
+    <discId>RWZP5G</discId>
+    <name>Wonder World Amusement Park</name>
+  </Game>
+  <Game>
+    <titleId>RWZX</titleId>
+    <discId>RWZX5G</discId>
+    <name>Wonder World Amusement Park</name>
+  </Game>
+  <Game>
+    <titleId>RWZJ</titleId>
+    <discId>RWZJ5G</discId>
+    <name>Wonder World Amusement Park</name>
+  </Game>
+  <Game>
+    <titleId>S3DJ</titleId>
+    <discId>S3DJ18</discId>
+    <name>Deca Sporta 3</name>
+  </Game>
+    <Game>
+    <titleId>SSQP</titleId>
+    <discId>SSQP01</discId>
+    <name>Mario Party 9</name>
+  </Game>
+      <Game>
+    <titleId>SSQE</titleId>
+    <discId>SSQE01</discId>
+    <name>Mario Party 9</name>
+  </Game>
+    <Game>
+    <titleId>SSQX</titleId>
+    <discId>SSQX01</discId>
+    <name>Mario Party 9</name>
+  </Game>
+    <Game>
+    <titleId>SSQJ</titleId>
+    <discId>SSQJ01</discId>
+    <name>Mario Party 9</name>
+  </Game>
+
 </BlockedGames>
